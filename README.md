@@ -1,0 +1,1 @@
+# Stylelint base config
