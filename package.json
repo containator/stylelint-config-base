@@ -22,7 +22,7 @@
   "main": "index.js",
   "name": "@containator/stylelint-config-base",
   "peerDependencies": {
-    "stylelint": "^13.13.0"
+    "stylelint": "^13.13.1"
   },
   "repository": {
     "type": "git",
