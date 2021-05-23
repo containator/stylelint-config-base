@@ -2,8 +2,8 @@
   "author": "Maxim A.",
   "devDependencies": {
     "@containator/eslint-config-base": "^1.0.0",
-    "eslint": "^7.26.0",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint": "^7.27.0",
+    "eslint-plugin-import": "^2.23.3",
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0"
   },
