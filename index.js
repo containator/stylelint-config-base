@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    './rules/limit-language-features',
+    './rules/conventions',
     './rules/possible-errors',
     './rules/stylistic-issues',
   ].map(require.resolve),
